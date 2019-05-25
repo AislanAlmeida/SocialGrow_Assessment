@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoLoginAPI", "SolucaoLoginAPI\SolucaoLoginAPI.csproj", "{234269E6-BE07-4487-B108-B455B694A0E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoLoginWEB", "SolucaoLoginWEB\SolucaoLoginWEB.csproj", "{F37647B0-CE5B-4F6A-A13A-A89F24F8E37C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234269E6-BE07-4487-B108-B455B694A0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234269E6-BE07-4487-B108-B455B694A0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234269E6-BE07-4487-B108-B455B694A0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234269E6-BE07-4487-B108-B455B694A0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37647B0-CE5B-4F6A-A13A-A89F24F8E37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37647B0-CE5B-4F6A-A13A-A89F24F8E37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37647B0-CE5B-4F6A-A13A-A89F24F8E37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37647B0-CE5B-4F6A-A13A-A89F24F8E37C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC278EB5-FE73-43B1-B150-0B7C7BD5F236}
+	EndGlobalSection
+EndGlobal

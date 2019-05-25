@@ -1,0 +1,83 @@
+﻿@model SolucaoLoginWEB.Models.PerfilModel
+
+@{
+    ViewBag.Title = "Buscar Email";
+}
+
+@if (ViewBag.Mensagem == "")
+{
+    <h2>Pesquisar Perfis</h2>
+    <div>
+        <h4>Emails</h4>
+        <hr />
+
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <div class="well well-sm">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-4">
+                            <img src="@Html.DisplayFor(model => model.PictureUrl)" alt="" class="img-rounded img-responsive" style="max-height:450px;margin:auto;" />
+                        </div>
+                        <div class="col-sm-6 col-md-8">
+                            <h4>
+                                Nome: @Html.DisplayFor(model => model.Nome)
+                            </h4>
+                            <h5>
+                                Sobrenome: @Html.DisplayFor(model => model.Sobrenome)
+                            </h5>
+
+                            <br />
+                            <hr />
+
+                            <p>
+                                <i class="glyphicon glyphicon-envelope"></i>   Email: @Html.DisplayFor(model => model.EmailUser)
+                                <br />
+                                <br />
+                                <i class="glyphicon glyphicon-gift"></i>   Aniversario: @Html.DisplayFor(model => model.Aniversario)
+                            </p>
+
+                            <form action="/Galeria/Index" method="post">
+                                <input value="@Model.EmailUser" name="email" class="hidden" />
+                                <button type="submit" class="btn btn-default">Visualizar Galeria</button>
+                            </form>
+
+                            @if (Session["Email_User"] != null)
+                            {
+                                if (Session["Email_User"].ToString() != "")
+                                {
+                                    if (ViewBag.Amigo != true)
+                                    {
+                                        <div class="row">
+                                            <form action="/Amigos/Index" method="post">
+                                                <input value="@Model.EmailUser" name="email" class="hidden" />
+                                                <button type="submit" class="btn btn-success">Enviar Convite de Amizade</button>
+                                            </form>
+                                        </div>
+                                    }
+                                }
+
+                            }
+
+
+
+                            <!-- Split button -->
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+else
+{
+    <h2>@ViewBag.Mensagem</h2>
+}
+
+<p>
+    @Html.ActionLink("Voltar para o Inicio", "Index", "Home")
+</p>

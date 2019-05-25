@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Solicitações Pendentes:</h2>
+@foreach (var item in ViewBag.Solicitacoes)
+{
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <div class="well well-sm">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-4">
+                            <img src="@item.PictureUrl" alt="" class="img-rounded img-responsive" style="max-height:450px;margin:auto;" />
+                        </div>
+                        <div class="col-sm-6 col-md-8">
+                            <h4>
+                                Nome: @item.Nome
+                            </h4>
+                            <h5>
+                                Sobrenome: @item.Sobrenome
+                            </h5>
+
+                            <br />
+                            <hr />
+
+                            <p>
+                                <i class="glyphicon glyphicon-envelope"></i>   Email: @item.EmailUser
+                                <br />
+                                <br />
+                                <i class="glyphicon glyphicon-gift"></i>   Aniversario: @item.Aniversario
+                            </p>
+                            
+                            <div class="row">
+                                <form action="/Galeria/Index" method="post">
+                                    <input value="@item.EmailUser" name="email" class="hidden" />
+                                    <button type="submit" class="btn btn-default">Visualizar Galeria</button>
+                                </form>
+                            </div>
+
+                            <div class="row">
+                                <form action="/Amigos/AceitaConvite" method="post">
+                                    <input value="@item.EmailUser" name="email" class="hidden" />
+                                    <button type="submit" class="btn btn-success">Aceitar Convite</button>
+                                </form>
+                            </div>
+                            <br /><br />
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+<h2>Meus Amigos:</h2>
+@foreach (var item in ViewBag.Amigos)
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-6">
+                <div class="well well-sm">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-4">
+                            <img src="@item.PictureUrl" alt="" class="img-rounded img-responsive" style="max-height:450px;margin:auto;" />
+                        </div>
+                        <div class="col-sm-6 col-md-8">
+                            <h4>
+                                Nome: @item.Nome
+                            </h4>
+                            <h5>
+                                Sobrenome: @item.Sobrenome
+                            </h5>
+
+                            <br />
+                            <hr />
+
+                            <p>
+                                <i class="glyphicon glyphicon-envelope"></i>   Email: @item.EmailUser
+                                <br />
+                                <br />
+                                <i class="glyphicon glyphicon-gift"></i>   Aniversario: @item.Aniversario
+                            </p>
+                            <div class="row">
+                                <form action="/Galeria/Index" method="post">
+                                    <input value="@item.EmailUser" name="email" class="hidden" />
+                                    <button type="submit" class="btn btn-default">Visualizar Galeria</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+
+
+

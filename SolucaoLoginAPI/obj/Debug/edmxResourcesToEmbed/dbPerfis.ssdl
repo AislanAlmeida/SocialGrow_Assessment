@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PerfisModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Amigos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SolicitacaoEnviada" Type="varchar" MaxLength="50" />
+    <Property Name="SolicitacaoRecebida" Type="varchar" MaxLength="50" />
+    <Property Name="SolicitacaoAceita" Type="varchar" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="Galeria">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmailUsuario" Type="varchar" MaxLength="250" />
+    <Property Name="Album" Type="varchar" MaxLength="250" />
+    <Property Name="Imagem" Type="varchar" MaxLength="250" />
+    <Property Name="CapaAlbum" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nome" Type="nchar" MaxLength="250" />
+    <Property Name="Sobrenome" Type="nchar" MaxLength="250" />
+    <Property Name="EmailUser" Type="nchar" MaxLength="250" />
+    <Property Name="PictureUrl" Type="varchar(max)" />
+    <Property Name="Aniversario" Type="date" />
+    <Property Name="AccountNumber" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityContainer Name="PerfisModelStoreContainer">
+    <EntitySet Name="Amigos" EntityType="Self.Amigos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Galeria" EntityType="Self.Galeria" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Table" EntityType="Self.Table" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+ <h2>Galeria de Fotos de @ViewBag.Email</h2>
+
+
+<div class="container">
+    <div class="col">
+
+
+        @if (ViewBag.Albuns != null)
+        {
+            foreach (var item in ViewBag.Albuns)
+            {
+
+                <div class="row">
+                    <form action="/Galeria/FotosDoAlbum" method="post">
+                        <input value="@ViewBag.Email" name="EmailPost" class="hidden" />
+
+                        <input value="@item" name="AlbumPost" class="hidden" />
+                        <button type="submit" class="btn btn-default">@item</button>
+                    </form>
+                </div>
+                <br /><br />
+
+            }
+        }
+
+    </div>
+</div>
+
+@if (Session["Email_User"] == ViewBag.Email)
+{
+    @Html.ActionLink("Criar Novo Album", "CriarAlbum", "Galeria")
+}

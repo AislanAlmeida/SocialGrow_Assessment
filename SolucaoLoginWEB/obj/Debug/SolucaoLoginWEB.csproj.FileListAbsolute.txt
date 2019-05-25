@@ -1,0 +1,267 @@
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\SolucaoLoginWEB.dll.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\SolucaoLoginWEB.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\SolucaoLoginWEB.pdb
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\csc.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\csc.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\csc.rsp
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\csi.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\csi.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\csi.rsp
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.AppContext.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Collections.Immutable.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Console.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.IO.Compression.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.IO.FileSystem.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.IO.Pipes.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Security.AccessControl.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Security.Claims.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.ValueTuple.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Xml.XPath.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\vbc.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\vbc.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\vbc.rsp
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\VBCSCompiler.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\roslyn\VBCSCompiler.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\Antlr3.Runtime.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\Microsoft.Web.Infrastructure.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\Newtonsoft.Json.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Net.Http.Formatting.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.Helpers.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.Mvc.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.Optimization.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.Razor.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.WebPages.Deployment.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.WebPages.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.WebPages.Razor.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\WebGrease.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Net.Http.Formatting.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.Helpers.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.Mvc.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.Optimization.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.Razor.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.WebPages.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.WebPages.Deployment.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Web.WebPages.Razor.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\Newtonsoft.Json.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\Antlr3.Runtime.pdb
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\pt-br\System.Web.Razor.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.csprojAssemblyReference.cache
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.csproj.CoreCompileInputs.cache
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.csproj.CopyComplete
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.pdb
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\SolucaoLoginWEB.dll.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\SolucaoLoginWEB.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\SolucaoLoginWEB.pdb
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\csc.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\csc.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\csc.rsp
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\csi.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\csi.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\csi.rsp
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.AppContext.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Collections.Immutable.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Console.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.IO.Compression.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.IO.FileSystem.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.IO.Pipes.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Security.AccessControl.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Security.Claims.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.ValueTuple.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Xml.XPath.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\vbc.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\vbc.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\vbc.rsp
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\VBCSCompiler.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\roslyn\VBCSCompiler.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\Antlr3.Runtime.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\Microsoft.Web.Infrastructure.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\Newtonsoft.Json.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Net.Http.Formatting.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.Helpers.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.Mvc.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.Optimization.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.Razor.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.WebPages.Deployment.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.WebPages.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.WebPages.Razor.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\WebGrease.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Net.Http.Formatting.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.Helpers.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.Mvc.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.Optimization.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.Razor.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.WebPages.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.WebPages.Deployment.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Web.WebPages.Razor.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\Newtonsoft.Json.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\Antlr3.Runtime.pdb
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\pt-br\System.Web.Razor.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.csprojAssemblyReference.cache
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.csproj.CoreCompileInputs.cache
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.csproj.CopyComplete
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.pdb
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\SolucaoLoginWEB.dll.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\SolucaoLoginWEB.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\SolucaoLoginWEB.pdb
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\csc.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\csc.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\csc.rsp
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\csi.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\csi.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\csi.rsp
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.AppContext.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Collections.Immutable.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Console.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.IO.Compression.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.IO.FileSystem.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.IO.Pipes.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Security.AccessControl.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Security.Claims.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.ValueTuple.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Xml.XPath.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\vbc.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\vbc.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\vbc.rsp
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\VBCSCompiler.exe
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\roslyn\VBCSCompiler.exe.config
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\Antlr3.Runtime.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\Microsoft.Web.Infrastructure.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\Newtonsoft.Json.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Net.Http.Formatting.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.Helpers.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.Mvc.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.Optimization.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.Razor.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.WebPages.Deployment.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.WebPages.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.WebPages.Razor.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\WebGrease.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Net.Http.Formatting.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.Helpers.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.Mvc.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.Optimization.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.Razor.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.WebPages.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.WebPages.Deployment.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Web.WebPages.Razor.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\Newtonsoft.Json.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\Antlr3.Runtime.pdb
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\pt-br\System.Web.Razor.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.csprojAssemblyReference.cache
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.csproj.CoreCompileInputs.cache
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.csproj.CopyComplete
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.dll
+E:\Arquivos\Visual Studio 2017\repos\SolucaoLoginAPI TP8 +TP9\SolucaoLoginWEB\obj\Debug\SolucaoLoginWEB.pdb

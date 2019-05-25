@@ -1,0 +1,115 @@
+﻿@model SolucaoLoginWEB.Models.RegistroModel
+
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: url("https://img.sunset02.com/sites/default/files/image/2016/09/main/veggies-upfront.jpg");
+            background-size: cover;
+            background-position: top;
+            font-family: sans-serif;
+        }
+
+        .loginbox {
+            width: 520px;
+            height: 420px;
+            background: rgba(0,0,0, 0.8);
+            color: #fff;
+            top: 50%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%,-50%);
+            box-sizing: border-box;
+            padding: 70px 30px;
+            border-radius: 15px;
+        }
+
+        .avatar {
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            top: -50px;
+            left: 108px;
+            opacity: 1;
+        }
+
+        h4 {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            font-size: 22px;
+        }
+
+        .loginbox .form-control {
+            border: none;
+            border-bottom: 1px solid #fff;
+            background: transparent;
+            color: #fff;
+            margin:auto;
+        }
+
+        .loginbox .btn-success {
+            border: none;
+            outline: none;
+            height: 40px;
+            width: 100%;
+        }
+    </style>
+<h2>Index</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    <div class="loginbox">
+
+        <div class="form-horizontal">
+            <h4>Cadastrar-se</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Senha, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Senha, new { htmlAttributes = new { @class = "form-control", @type = "password" } })
+                    @Html.ValidationMessageFor(model => model.Senha, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.ConfirmacaoSenha, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ConfirmacaoSenha, new { htmlAttributes = new { @class = "form-control", @type = "password" } })
+                    @Html.ValidationMessageFor(model => model.ConfirmacaoSenha, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Registrar" class="btn btn-success" />
+                </div>
+            </div>
+        </div>
+
+    </div>
+    
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

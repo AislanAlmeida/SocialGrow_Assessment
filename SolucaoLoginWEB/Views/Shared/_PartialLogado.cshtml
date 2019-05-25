@@ -1,0 +1,24 @@
+﻿@if (!string.IsNullOrEmpty(Session["access_token"]?.ToString()))
+{
+    using (Html.BeginForm("LogOut", "Login", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+<ul class="nav navbar-nav navbar-right">
+    <li>
+        @Html.ActionLink("Olá " + Session["Email_User"] + " !", "Index", "GerenciarPerfil", routeValues: null, htmlAttributes: new { title = "Manage" })
+    </li>
+    <li>@Html.ActionLink("Galeria", "Index", "Galeria")</li>
+    <li>@Html.ActionLink("Amigos", "Index", "Amigos")</li>
+    <li><a href="javascript:document.getElementById('logoutForm').submit()">Fazer logoff</a></li>
+</ul>
+    }
+}
+else
+{
+        <ul class="nav navbar-nav navbar-right">
+            <li>@Html.ActionLink("Cadastrar-se", "Index", "Registro")</li>
+            <li>@Html.ActionLink("Login", "Index", "Login")</li>
+            
+        </ul>
+}
